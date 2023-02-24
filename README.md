@@ -1,5 +1,5 @@
 # euclid
-Euclid - a landing page for "Euclid" construction company.
+Euclid - a landing page for "Euclid" construction company (one of the projects of Skillbox Web-development course).
 
 Duties:
 
